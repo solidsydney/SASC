@@ -1,0 +1,7 @@
+== README
+
+==SASC "Staff Association and Student Collaboration systeme
+=== All Codes are properly documented
+- This is the first collaborative version of this application.
+
+** Thanks **
